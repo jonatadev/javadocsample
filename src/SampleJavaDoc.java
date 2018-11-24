@@ -54,3 +54,4 @@ public class SampleJavaDoc {
             }
       }
 }
+// Alterado da web by jonatadev@gmail.com
